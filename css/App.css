@@ -1,0 +1,9 @@
+.App {
+  margin: 5px auto;
+  text-align: center;
+}
+header h1 {
+  color: #d8d520;
+  font-family: "Bigelow Rules", cursive;
+  font-size: 72px;
+}
